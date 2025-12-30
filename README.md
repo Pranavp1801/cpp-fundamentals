@@ -1,13 +1,20 @@
-# CPP-FUNDAMENTALS
+# CPP Fundamentals 
 
-## Topics Covered:
+This repository contains my daily C++ practice programs created while learning
+programming fundamentals and Git/GitHub.
 
-- Arrays: Store multiple values of the same type in a single variable.
-- Functions: Blocks of code that perform a specific task.
-- Loops: Repeat a block of code while a condition is true.
-- Strings: Sequences of characters used to store text.
-- Variables: Named containers used to store data values.
+## Purpose
+- Practice C++ basics
+- Build consistency on GitHub
+- Learn version control using Git
 
-## Goal
+## Tools Used
+- C++
+- Git & GitHub
+- GCC (MinGW)
 
-To get hands on with cpp fundamentals.
+## Progress
+This repository is updated daily as part of a 20-day GitHub learning plan.
+
+## Author
+Pranav Pawar
