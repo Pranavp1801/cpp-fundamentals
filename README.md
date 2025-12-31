@@ -8,6 +8,17 @@ programming fundamentals and Git/GitHub.
 - Build consistency on GitHub
 - Learn version control using Git
 
+## Things Added
+- Arrays
+- Loops
+- Strings
+- Variables
+- Functions
+- Stack
+- Linked List
+- Queue
+- Binary Search
+
 ## Tools Used
 - C++
 - Git & GitHub
